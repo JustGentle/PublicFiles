@@ -11,7 +11,7 @@
             "dstURL": "upcdn.b0.upaiyun.com",
             "kind": "wildcard",
             "enable": true
-        },//update
+        },
         "fonts.googleapis.com": {
             "dstURL": "fonts.proxy.ustclug.org",
             "kind": "wildcard",
